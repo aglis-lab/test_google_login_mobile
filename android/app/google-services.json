@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91674882629",
+    "project_id": "steel-autonomy-370001",
+    "storage_bucket": "steel-autonomy-370001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91674882629:android:49d4ba798bf9bed572292c",
+        "android_client_info": {
+          "package_name": "com.example.google_calendar_login_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91674882629-ndcgad745pbr802k9gdppieg1k4eo8bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLm4xesGsXoF-MLOsxAZtk6IVQv85MJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91674882629-ndcgad745pbr802k9gdppieg1k4eo8bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
